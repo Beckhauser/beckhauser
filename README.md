@@ -1,15 +1,8 @@
-### <div>Nice to see you!</div>  
-  
+##<div>Nice to see you!</div>  
 ---
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
-  
-
 - 🌱 I’m currently learning server-side stuffs  
-  
-
 - ⚡ Fun fact: I have 4 cats  
-  
-
 <br/>  
 
 <div align="center">  
