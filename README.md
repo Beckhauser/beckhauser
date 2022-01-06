@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
 
-- 🌱 I’m currently learning server-side stuffs  
+- 🌱 I’m currently learning about Spring and server-side stuffs  
 
 - ⚡ Fun fact: I have 4 cats  
 
