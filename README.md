@@ -1,6 +1,6 @@
-### <div align="center">I'm Lucas Beckhauser</div>  
+### <div>Nice to see you!</div>  
   
-
+----
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
   
 
@@ -30,18 +30,9 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **Beckhauser/beckhauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
