@@ -1,5 +1,5 @@
 ## <div>Nice to see you!</div>  
----
+
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
 
 - 🌱 I’m currently learning server-side stuffs  
