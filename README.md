@@ -1,12 +1,15 @@
-## <div>Nice to see you!</div>  
+
+## Nice to see you! 
+<img align="right" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" alt="Coffe Time" width="200" />
 
 - 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
 
-- 🌱 I’m currently learning about Spring and server-side stuffs  
+- 🌱 I’m currently learning about Spring and Angular
 
 - ⚡ Fun fact: I have 4 cats  
 
-<br/>  
+<div align="left">
+<br/>  <br/>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -27,20 +30,3 @@
 </div>  
   
 <br/>  
-
-----
-
-<!--
-**Beckhauser/beckhauser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
