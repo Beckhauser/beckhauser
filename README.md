@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I have 4 cats  
 
 <div align="left">
-<br/> <br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
