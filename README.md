@@ -2,9 +2,9 @@
 ## Nice to see you! 
 <img align="right" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" alt="Coffe Time" width="200" />
 
-- 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer  
+- 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer
 
-- 🌱 I’m currently learning about Spring and Angular
+- 🌱 I’m currently learning about Spring and Devops stuffs
 
 - ⚡ Fun fact: I have 4 cats  
 
