@@ -2,20 +2,15 @@
 ## Nice to see you! 
 <img align="right" src="https://media.giphy.com/media/687qS11pXwjCM/giphy.gif" alt="Coffe Time" width="200" />
 
-- 🔭 I’m currently working on [Projuris](https://www.projuris.com.br/) as a Java Developer
-
-- 🌱 I’m currently learning about Spring and Devops stuffs
-
-- ⚡ Fun fact: I have 4 cats  
+- 🔭 I’m currently working at [Photon Engine](https://www.projuris.com.br/) as a Devops Engineer
 
 <div align="left">
 <br/><br/><br/><br/><br/>
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="GO" height="50"  />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>  
 
 <br/>  
