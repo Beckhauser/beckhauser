@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Alexandre Beckhauser</h1>
 <h3 align="center">A backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on Photon Engine [Photon Engine](https://www.photonengine.com/)
+- 🔭 I’m currently working on [Photon Engine](https://www.photonengine.com/)
 
 - 🌱 I’m currently learning more about **Go and React**
 
